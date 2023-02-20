@@ -1,4 +1,7 @@
+![](images/logo.png)
+
 # Sandboxes / Payments-To-Go Sandbox
+![](images/cover.png)
 ## PURPOSE
 Finastra provides sandboxes with its core products, so that FinTechs and partners can connect to build, integrate, and test their innovative applications. A sandbox is a test environment with the same Finastra solutions that financial institutions are using across the world.
 
